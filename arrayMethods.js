@@ -50,3 +50,7 @@ brownOnly.splice(1,5,'brown','brown','brown');
 
 orderedValues.unshift(1,2,3);
 orderedValuesNewLength=orderedValues.length;
+
+var randomThingsArray=genericNumberArray.concat(colors);
+
+var updatedOrders=orderQueue.concat([{ takeOut: 'Shave Icce' }, { takeOut: 'Large Salad'}]);

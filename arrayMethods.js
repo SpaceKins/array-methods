@@ -24,3 +24,7 @@ for(var i=6;i<11;i++)
 {
 	genericNumberArray.push(i);
 }
+
+
+var popResult;
+popResult=colors.pop();
